@@ -14,7 +14,7 @@ Functions will include:
         edit the place_holder function to do this.
         remove # when function is ready
 
-    # >>> [celcius_to_fahrenheit(x) for x in [-40.0, -10.0, 0.0, 10.0, 16.0]]
+     >>> [celcius_to_fahrenheit(x) for x in [-40.0, -10.0, 0.0, 10.0, 16.0]]
     [-40.0, 14.0, 32.0, 50.0, 60.8]
 
 =================================================================
@@ -27,7 +27,7 @@ Functions will include:
         edit the place_holder function to do this.
         remove # when function is ready
 
-    # >>> celcius_to_kelvin(0)
+     >>> celcius_to_kelvin(0)
     273.15
 
     Task #2b:
@@ -43,7 +43,7 @@ Functions will include:
         Merge `feature1` into main.  Then merge `feature2` into main. 
 
 =================================================================
-    Task 4:
+    T  ask 4:
         Last 2 functions, Add below your other edits.
 
         `fahrenheit_to_kelvin(fahrenheit: float) -> float`
